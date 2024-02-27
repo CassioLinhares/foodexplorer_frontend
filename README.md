@@ -4,7 +4,7 @@ Cardápio digital para um restaurante fictício
 ## 🚀 Projeto
 O projeto FoodExplorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.
 
-Este é o link de acesso ao designer do projeto [figma](https://www.figma.com/community/file/1196874589259687769).
+O projeto foi desenvolvido apartir do layout desponibilizado no [figma](https://www.figma.com/community/file/1196874589259687769).
 O front-end do projeto, responsável pela interface do usuário, está disponível neste [repositório](https://github.com/CassioLinhares/foodexplorer_frontend/tree/main). Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](foodexplorer-api-npff.onrender.com).
 
 ## 📄 Páginas
