@@ -2,8 +2,9 @@
 Cardápio digital para um restaurante fictício
 
 ## 🚀 Projeto
-O projeto Food Explorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.
+O projeto FoodExplorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.
 
+Este é o link de acesso ao designer do projeto [figma], (https://www.figma.com/community/file/1196874589259687769).
 O front-end do projeto, responsável pela interface do usuário, está disponível neste [repositório](https://github.com/CassioLinhares/foodexplorer_frontend/tree/main). Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](foodexplorer-api-npff.onrender.com).
 
 ## 📄 Páginas
@@ -54,19 +55,18 @@ A aplicação Food Explorer está disponível para uso [aqui](link_para_a_aplica
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o Node.js e o npm instalados antes de prosseguir com as etapas abaixo:
 
 1. Clone o projeto:
-$ git@github.com:CassioLinhares/foodexplorer_frontend.git
+``` $ git@github.com:CassioLinhares/foodexplorer_frontend.git ```
 
 2. Acesse a pasta do projeto:
-$ cd food-explorer-frontend
+```$ cd food-explorer-frontend ```
 
 3. Instale as dependências:
-$ npm install
+``` $ npm install ```
 
 4. Inicie o servidor:
-$ npm run dev
+``` $ npm run dev ```
 
-
-⚠️ **Importante:** Este projeto utiliza uma hospedagem gratuita para o back-end, portanto, pode haver atrasos no tempo de resposta do servidor.
+⚠️ **Importante:** Este projeto utiliza uma hospedagem gratuita para o back-end [render], (https://render.com/). Portanto, pode haver atrasos no tempo de resposta do servidor.
 
 ## 👩‍💻 Personas
 O Food Explorer possui duas personas principais: o "Admin" e o "Usuário". Você pode criar um novo usuário ou testar a aplicação usando as seguintes informações de login:
