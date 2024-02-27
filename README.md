@@ -1,12 +1,12 @@
 # ![Logo do Food Explorer](https://i.imgur.com/fk0Vker.png) 
 Cardápio digital para um restaurante fictício
 
-## Projeto
+## 🚀 Projeto
 O projeto Food Explorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.
 
-O front-end do projeto, responsável pela interface do usuário, está disponível neste [repositório](link_para_o_repositorio_do_frontend). Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](link_para_o_repositorio_do_backend).
+O front-end do projeto, responsável pela interface do usuário, está disponível neste [repositório](https://github.com/CassioLinhares/foodexplorer_frontend/tree/main). Já o back-end, que lida com a lógica e o armazenamento dos dados, está disponível [aqui](foodexplorer-api-npff.onrender.com).
 
-## Páginas
+## 📄 Páginas
 A aplicação conta com as seguintes páginas:
 
 - Login
@@ -18,7 +18,7 @@ A aplicação conta com as seguintes páginas:
 - Favoritos
 - Página Menu mobile
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 A aplicação apresenta as seguintes funcionalidades:
 
 - Login
@@ -35,7 +35,7 @@ A aplicação apresenta as seguintes funcionalidades:
 - Excluir prato
 - Logout
 
-## Tecnologias
+## 💻 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Axios
@@ -48,13 +48,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Swiper
 - ViteJS
 
-## Utilização
+## 🛠️ Utilização
 A aplicação Food Explorer está disponível para uso [aqui](link_para_a_aplicacao).
 
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o Node.js e o npm instalados antes de prosseguir com as etapas abaixo:
 
 1. Clone o projeto:
-$ git clone link_para_o_repositorio_do_frontend
+$ git@github.com:CassioLinhares/foodexplorer_frontend.git
 
 2. Acesse a pasta do projeto:
 $ cd food-explorer-frontend
@@ -68,7 +68,7 @@ $ npm run dev
 
 ⚠️ **Importante:** Este projeto utiliza uma hospedagem gratuita para o back-end, portanto, pode haver atrasos no tempo de resposta do servidor.
 
-## Personas
+## 👩‍💻 Personas
 O Food Explorer possui duas personas principais: o "Admin" e o "Usuário". Você pode criar um novo usuário ou testar a aplicação usando as seguintes informações de login:
 
 **Admin:**
@@ -83,8 +83,7 @@ O admin tem acesso privilegiado e pode gerenciar o cardápio, adicionando, edita
 
 O usuário tem acesso restrito às funcionalidades da aplicação, podendo visualizar o cardápio, filtrar pratos, ver detalhes de pratos específicos, favoritar pratos e adicionar pratos ao carrinho.
 
-## Licença
+## 📝 Licença
 Este projeto está sob a licença MIT.
 
 Feito com 💜 by Cássio Linhares 👋🏾
-
